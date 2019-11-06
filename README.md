@@ -1,2 +1,8 @@
 # Talks-and-Workshops
-Repository having slides and other resources which I have used for talks and workshops in the past
+Repository of my talks/workshops
+
+## 2019
+
+| Topic                                                                 | Event                                   | Month     | Slides |
+| :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
+| Resume Making Workshop | [Cybermeet Society - IP College]() | September | [GitHub Repo]() |
